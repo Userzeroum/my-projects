@@ -3,7 +3,7 @@
 - I'm 17 years old
 - I like to study programming in practice
 - email to contacts: danielounofre@gmail.com
-<div><a href="https://www.instagram.com/daniel_ramos027/">
-<img height="180cm" scr="https://github-readme-stats.vencel.app/api?username=rafaballerini&show_icons=true&theme=dark&include_all_commits=tue&count_private=true"/>
-<img height="180" scr=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=168&theme=dark"/> 
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
